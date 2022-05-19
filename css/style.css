@@ -71,8 +71,10 @@ a {
     border-radius: 50%;
     margin-left: 30px;
     background-color: #cecece;
+    box-shadow: 2px 2px 2px grey;
 
     text-align: center;
+    text-shadow: 1px 1px 1px;
     text-decoration: none;
     font-size: 20px;
 
